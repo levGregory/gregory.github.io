@@ -1,0 +1,33 @@
+h2{
+    font-family: cursive;
+}
+.BMW{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    background: rgba(128, 128, 128, 0.257);
+    width:80% ;
+    margin: 0 auto;
+     height:250px;
+     border-radius: 10px;
+}
+.MERSEDES{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    background: rgba(128, 128, 128, 0.257);
+    width:80% ;
+    margin: 0 auto;
+     height:200px;
+     border-radius: 10px;
+   
+}
+.AUDI{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    background: rgba(128, 128, 128, 0.257);
+    width:80% ;
+    margin: 0 auto;
+     height:280px;
+     border-radius: 10px;
+   
+   
+}

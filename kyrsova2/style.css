@@ -1,0 +1,75 @@
+.golovna{
+    width:100%;
+   
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+}
+.zagolovok{
+    width:20% ;
+    height:55px ;
+   
+    margin-right:275px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    width:25% ;
+    height:75px ;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.menu_buton{
+    width: 15% ;
+    height:45px ;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.avto_info{
+    width:100% ;
+    height:300px ;
+    background: rgb(115, 115, 115);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.avto_info_text{
+    width:60% ;
+    height:250px ;
+    font-family: cursive;
+
+}
+.avto_info_img{
+    width:30% ;
+    height:275px ;
+    
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZfx6aUfFY-MHSXDseYMCUsOF0ngkF8lpcg&usqp=CAU) ;
+    background-size: 100% 100%;
+}
+h1{
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+    color: azure;
+}
+.menu_link{
+    color:black;
+}
+.menu_klass{
+    color:black;
+}
+.menu_jup{
+    color:black;
+}
+.menu_avto{
+    color:black;
+}
