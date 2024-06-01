@@ -1,0 +1,29 @@
+h2{
+    font-family: cursive;
+}
+h3{
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    background: rgba(128, 128, 128, 0.257);
+    margin: 0 auto;
+     height:280px;
+     border-radius: 10px;
+}
+.istor{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    background: rgba(128, 128, 128, 0.257);
+    margin: 0 auto;
+     height:250px;
+     border-radius: 10px;
+}
+.p1{
+    color: rgb(0, 0, 0);
+    background: rgba(128, 128, 128, 0.257);
+    margin: 0 auto;
+     height:250px;
+     border-radius: 10px;
+}
